@@ -1,0 +1,9 @@
+cp ~/.ysnippet.db ~/projects/ysnippet.db-code/ysnippet.db
+cd ~/projects/ysnippet.db-code
+git add *
+git commit -a
+git push
+
+
+
+
